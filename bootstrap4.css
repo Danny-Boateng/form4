@@ -1,0 +1,216 @@
+*{margin: 0;
+  padding: 0;
+  box-sizing: border-box;  
+
+}
+
+
+.bombs{padding-left: 300px;
+
+
+}
+
+.special{color: #EF0178;
+         border-color: #EF0178;
+         padding-right: -20px;
+
+}
+
+span{color: #EF0178;
+
+}
+
+.info-box{font-weight: 600;
+}
+
+.great{padding: 40px 5px;
+       width: 500px;
+
+}
+
+.paco{line-height: 2;
+
+}
+
+.bomb{background-color: #5243C2 !important;
+    border-color: #5243C2;
+    border-radius: 0px 0px;
+
+}
+
+
+
+
+
+
+.montserrat-font{
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  margin: 10px;
+  padding-left: 10px;
+  
+}
+
+
+.meet-up{font-family: "Montserrat", sans-serif;
+         font-weight: 100;
+         font-size: 15px;
+         color: #EF0178 !important;
+
+}
+
+.meet{width: 400px;
+      margin-left: 250px;
+      font-weight: 350 !important;
+      padding-bottom: 10px;
+      
+
+}
+
+.imagez{padding: 0px 100px;
+       
+        
+
+}
+
+.boost{width: 500px;
+       line-height: 1.2 !important;
+
+}
+
+
+.ninja{color: #5243C2;
+
+}
+
+.info-crate{width: 390px;
+
+}
+
+.tick{font-weight: 300 !important;
+      font-family: "Montserrat", sans-serif !important;
+
+}
+
+.meet-down{color: #EF0178 !important;
+           font-size: 15px;
+           font-weight: 100;
+           padding-left: 600px;
+           margin-bottom: 40px;
+
+}
+
+.determine{padding-left: 410px;
+           font-weight: 700;
+
+}
+
+.logo-goer{margin-left: 0px;
+           margin-left: -10px !important;
+
+}
+
+
+.logo-go{padding: 0px 30px;
+         width: 300px !important;
+         justify-content: space-between !important;
+         padding-right: 30px !important;
+
+}
+
+
+.log{padding-bottom: 20px;
+
+}
+
+.para{line-height: 2;
+      font-size: 14px !important;
+
+}
+
+
+.ogoe{width: 300px;
+
+}
+
+.head{font-size: 20px !important;
+      font-weight: 700 !important;
+
+}
+
+.nore{margin-left: 60px;
+
+}
+
+.mandem{height: 28vh;
+           width: 1600px;
+           background-color: #5243C2;
+           margin-left: 100px;
+           border-radius: 10px;
+           
+
+}
+
+.hire{font-weight: 800;
+      color: #fff;
+      font-size: 30px;
+      
+      
+      
+      
+
+}
+
+.devop{padding-top: 80px;
+       padding-left: 720px;
+       
+
+}
+
+.button-ny{height: 55px;
+      width: 200px;
+      
+      background-color: #EF0178;
+      color: #fff;
+      border: 0;
+      font-weight: 300;
+      border-radius: 2px;
+      letter-spacing: 3px;
+      
+     
+}
+
+
+
+         
+          
+          
+
+
+.vector-2{height: 25px;
+          width: 50px;
+          margin-left: 1440px;
+          margin-top: -270px;
+         
+
+}
+
+.vector-3{margin-left: 500px;
+          margin-top: -150px;
+          
+         
+
+}
+
+.new-name{display: flex;
+         justify-content: space-between;
+         width: 1400px;
+         padding-top: 80px;
+         margin-left: 50px;
+        
+        
+
+}
+
+
+

@@ -1,0 +1,113 @@
+*{margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+.logo{height: 100px;
+      width: 100px;
+
+}
+
+.nav-container{height: 100px;
+               margin-top: -5px;
+               
+               
+               
+
+}
+
+.background{background-color: burlywood;
+             
+   
+
+}
+
+.font-change{color: green !important;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.font-change:hover{color: white !important;
+                   font-size: 20px;
+                   cursor: pointer;
+
+}
+
+.input-clr{background-color: burlywood;
+
+}
+
+.bobo{color: green;
+      background-color: transparent;
+
+}
+
+.bobo:hover{color: green !important;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: yellow;
+
+
+}
+
+.edit-page-bg{height: 100vh;
+              background-image: url(pics/pexels-matthew-montrone-1324803.jpg);
+              background-position: center;
+              background-repeat: no-repeat;
+              background-size: cover;
+              
+
+}
+
+.nametin{ height: 10vh;
+          width: 40%;
+          padding: 10px 10px;
+          border: 3px solid black;
+          border-radius: 10px 50px;
+          margin-left: 550px;
+          cursor: pointer;
+          background-color: green;         
+          font-weight: 100px !important;
+           color: black !important;
+           margin-bottom: 100px;
+
+}
+
+
+.detail-page{font-weight: 600 !important;
+             font-size: 30px;
+             color: #fff !important;
+             margin-bottom: 120px !important;
+
+}
+
+.enter-1{background-color: green !important;
+         border: 3px solid black !important;
+
+
+}
+
+.enter-2{background-color: green !important;
+         border: 3px solid black !important;
+         color: #fff;
+
+}
+
+
+.enter-1:hover{height: 80px;
+               background: transparent !important;
+
+
+}
+
+.enter-2:hover{height: 80px;
+               background: transparent !important;
+
+
+}
+
+span{color: yellow;
+
+}
+

@@ -1,0 +1,121 @@
+*{margin: 0;
+  padding: 0;
+  box-sizing: border-box;}
+
+
+  .name{margin-top: 20px !important;
+
+  }
+
+  .brands{margin-top: 20px;
+          margin-left: 25px;
+          margin-bottom: 40px;
+
+  }
+
+  .rep{color: #fff !important;
+       font-size: 25px !important;
+       margin-left: 15px;
+       padding: 10px;
+
+  }
+
+  .rep:hover{color: aqua !important;
+             font-size: 28px !important;
+
+  }
+
+  span:hover{color: aqua !important;
+             font-size: 28px !important;
+
+
+  }
+
+  .background{height: 100vh;
+              width: 90%;
+              margin-left: 300px;
+
+  }
+
+  .about{height: 80vh;
+        width: 92%;
+        margin-left: 150px;
+
+  }
+
+  .resume{width: 90%;
+          margin-left: 175px !important;
+          background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(assets2/img/pexels-lukas-590016.jpg) !important;
+          background-position: center !important;
+          background-size: cover !important;
+          background-repeat: no-repeat !important;
+
+  }
+  
+
+  .res-info{color: #fff !important;
+
+  }
+
+  .res-name{font-size: 100px !important;
+            color: rgb(48, 48, 228);
+
+  }
+
+  .highlight{padding: 10px 10px !important;
+             background-color: #A09C37 !important;
+
+  }
+
+
+  .services{width: 92%;
+            height: 80vh;
+            margin-left: 150px;
+
+  }
+
+  .contact{width: 90%;
+           height: 60vh;
+           margin-left: 180px;
+           background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(assets2/img/Frame\ 34.png);
+           background-position: center;
+           background-repeat: no-repeat;
+           background-size: cover;
+
+  }
+
+  .contact-info{color: #fff !important;
+
+  }
+
+  .form{width: 90%;
+        height: 80vh;
+        margin-left: 200px;
+        background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(assets2/img/laptop-8499942_1920.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+
+  }
+
+  .form-co{color: #fff;
+           font-weight: 700;
+           font-size: 20px;
+
+  }
+
+  button{padding: 10px 10px;
+        background-color: #A09C37;
+        border: 5px solid #1862F2;
+        border-radius: 0 20px 0 20px;
+        font-size: 30px;
+        font-weight: 600;
+
+
+  }
+
+  .form-com{font-size: 60px;
+        color: #fff;
+
+  }

@@ -1,0 +1,92 @@
+*{margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+  }
+  
+  .logo{height: 100px;
+        width: 100px;
+  
+  }
+  
+  .nav-container{height: 100px;
+                 margin-top: -5px;
+                 
+                 
+                 
+  
+  }
+  
+  .background{background-color: burlywood;
+               
+     
+  
+  }
+  
+  .font-change{color: green !important;
+      font-family: 'Poppins', sans-serif;
+  
+  }
+  
+  .font-change:hover{color: white !important;
+                     font-size: 20px;
+                     cursor: pointer;
+  
+  }
+  
+  .input-clr{background-color: burlywood;
+  
+  }
+  
+  .bobo{color: green;
+        background-color: transparent;
+  
+  }
+  
+  .bobo:hover{color: green !important;
+      font-size: 20px;
+      cursor: pointer;
+      background-color: yellow;
+  
+  
+  }
+
+  .lap-image{height: 50vh;
+             width: 90%;
+             border-radius: 20px 40px;
+
+  }
+
+  .service-head{font-size: 3rem;
+                font-weight: 600;
+}
+
+.icons-edit{
+    color: blue;
+    font-size: 100px;
+   
+}
+
+.click{height: 50px;
+       width: 160px;
+       background-color: rgb(53, 53, 243);
+       border-radius: 20px 50px;
+       cursor: pointer;
+       text-decoration: none !important;
+       font-weight: 800 !important;
+       color: #fff;
+       
+
+}
+
+.click:hover{width: 200px;
+             background: transparent;
+             text-decoration: none !important;
+             color: #000;
+
+}
+
+.deco{text-decoration: none;
+
+}
+

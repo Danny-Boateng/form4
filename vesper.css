@@ -1,0 +1,44 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+.men{color: #000;
+
+}
+
+.men-2{
+    border-radius: 50px !important;
+}
+
+.title{line-height: 60px !important;
+
+}
+
+.butt-edit{color: rgb(64, 64, 241) !important;
+           background-color: transparent !important;
+           border-color: rgb(64, 64, 241) !important;
+           border-radius: 50px !important;
+           margin-top: 20px !important;
+
+}
+
+.imagez{height: 20vh !important;
+        width: 250px !important;
+        padding: 50px !important;
+        
+
+}
+
+.vesper{font-weight: 600 !important;
+
+}
+
+.background{background-color: rgb(236, 252, 252) !important;}
+
+
+.movement{animation: dan 1s ease-in-out infinite alternate-reverse both;}
+
+@keyframes dan{
+    0%{transform: translateY(10px);}
+    100%{transform: translateY(-10px);}
+}
